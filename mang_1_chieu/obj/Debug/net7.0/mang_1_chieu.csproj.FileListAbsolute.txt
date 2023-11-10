@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\mang_1_chieu\bin\Debug\net7.0\mang_1_chieu.exe
+C:\Users\Administrator\Downloads\mang_1_chieu\bin\Debug\net7.0\mang_1_chieu.deps.json
+C:\Users\Administrator\Downloads\mang_1_chieu\bin\Debug\net7.0\mang_1_chieu.runtimeconfig.json
+C:\Users\Administrator\Downloads\mang_1_chieu\bin\Debug\net7.0\mang_1_chieu.dll
+C:\Users\Administrator\Downloads\mang_1_chieu\bin\Debug\net7.0\mang_1_chieu.pdb
+C:\Users\Administrator\Downloads\mang_1_chieu\obj\Debug\net7.0\mang_1_chieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\mang_1_chieu\obj\Debug\net7.0\mang_1_chieu.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\mang_1_chieu\obj\Debug\net7.0\mang_1_chieu.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\mang_1_chieu\obj\Debug\net7.0\mang_1_chieu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\mang_1_chieu\obj\Debug\net7.0\mang_1_chieu.dll
+C:\Users\Administrator\Downloads\mang_1_chieu\obj\Debug\net7.0\refint\mang_1_chieu.dll
+C:\Users\Administrator\Downloads\mang_1_chieu\obj\Debug\net7.0\mang_1_chieu.pdb
+C:\Users\Administrator\Downloads\mang_1_chieu\obj\Debug\net7.0\mang_1_chieu.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\mang_1_chieu\obj\Debug\net7.0\ref\mang_1_chieu.dll
