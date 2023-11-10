@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\obj\Debug\net7.0\mang-1-chieu level 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\obj\Debug\net7.0\mang-1-chieu level 2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\obj\Debug\net7.0\mang-1-chieu level 2.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\obj\Debug\net7.0\mang-1-chieu level 2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\bin\Debug\net7.0\mang-1-chieu level 2.exe
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\bin\Debug\net7.0\mang-1-chieu level 2.deps.json
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\bin\Debug\net7.0\mang-1-chieu level 2.runtimeconfig.json
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\bin\Debug\net7.0\mang-1-chieu level 2.dll
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\bin\Debug\net7.0\mang-1-chieu level 2.pdb
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\obj\Debug\net7.0\mang-1-chieu level 2.dll
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\obj\Debug\net7.0\refint\mang-1-chieu level 2.dll
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\obj\Debug\net7.0\mang-1-chieu level 2.pdb
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\obj\Debug\net7.0\mang-1-chieu level 2.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\mang-1-chieu level 2\obj\Debug\net7.0\ref\mang-1-chieu level 2.dll
