@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "mang_2_chieu/1.0.0": {
+        "runtime": {
+          "mang_2_chieu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mang_2_chieu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
