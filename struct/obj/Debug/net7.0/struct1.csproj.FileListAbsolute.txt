@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\struct1\bin\Debug\net7.0\struct1.exe
+C:\Users\Administrator\Downloads\struct1\bin\Debug\net7.0\struct1.deps.json
+C:\Users\Administrator\Downloads\struct1\bin\Debug\net7.0\struct1.runtimeconfig.json
+C:\Users\Administrator\Downloads\struct1\bin\Debug\net7.0\struct1.dll
+C:\Users\Administrator\Downloads\struct1\bin\Debug\net7.0\struct1.pdb
+C:\Users\Administrator\Downloads\struct1\obj\Debug\net7.0\struct1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\struct1\obj\Debug\net7.0\struct1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\struct1\obj\Debug\net7.0\struct1.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\struct1\obj\Debug\net7.0\struct1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\struct1\obj\Debug\net7.0\struct1.dll
+C:\Users\Administrator\Downloads\struct1\obj\Debug\net7.0\refint\struct1.dll
+C:\Users\Administrator\Downloads\struct1\obj\Debug\net7.0\struct1.pdb
+C:\Users\Administrator\Downloads\struct1\obj\Debug\net7.0\struct1.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\struct1\obj\Debug\net7.0\ref\struct1.dll

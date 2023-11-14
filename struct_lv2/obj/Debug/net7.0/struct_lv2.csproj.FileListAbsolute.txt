@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\struct_lv2\bin\Debug\net7.0\struct_lv2.exe
+C:\Users\Administrator\Downloads\struct_lv2\bin\Debug\net7.0\struct_lv2.deps.json
+C:\Users\Administrator\Downloads\struct_lv2\bin\Debug\net7.0\struct_lv2.runtimeconfig.json
+C:\Users\Administrator\Downloads\struct_lv2\bin\Debug\net7.0\struct_lv2.dll
+C:\Users\Administrator\Downloads\struct_lv2\bin\Debug\net7.0\struct_lv2.pdb
+C:\Users\Administrator\Downloads\struct_lv2\obj\Debug\net7.0\struct_lv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\struct_lv2\obj\Debug\net7.0\struct_lv2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\struct_lv2\obj\Debug\net7.0\struct_lv2.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\struct_lv2\obj\Debug\net7.0\struct_lv2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\struct_lv2\obj\Debug\net7.0\struct_lv2.dll
+C:\Users\Administrator\Downloads\struct_lv2\obj\Debug\net7.0\refint\struct_lv2.dll
+C:\Users\Administrator\Downloads\struct_lv2\obj\Debug\net7.0\struct_lv2.pdb
+C:\Users\Administrator\Downloads\struct_lv2\obj\Debug\net7.0\struct_lv2.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\struct_lv2\obj\Debug\net7.0\ref\struct_lv2.dll
