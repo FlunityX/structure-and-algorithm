@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\bin\Debug\net7.0\de_quy_fi_bo_na_cci.exe
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\bin\Debug\net7.0\de_quy_fi_bo_na_cci.deps.json
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\bin\Debug\net7.0\de_quy_fi_bo_na_cci.runtimeconfig.json
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\bin\Debug\net7.0\de_quy_fi_bo_na_cci.dll
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\bin\Debug\net7.0\de_quy_fi_bo_na_cci.pdb
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\obj\Debug\net7.0\de_quy_fi_bo_na_cci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\obj\Debug\net7.0\de_quy_fi_bo_na_cci.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\obj\Debug\net7.0\de_quy_fi_bo_na_cci.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\obj\Debug\net7.0\de_quy_fi_bo_na_cci.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\obj\Debug\net7.0\de_quy_fi_bo_na_cci.dll
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\obj\Debug\net7.0\refint\de_quy_fi_bo_na_cci.dll
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\obj\Debug\net7.0\de_quy_fi_bo_na_cci.pdb
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\obj\Debug\net7.0\de_quy_fi_bo_na_cci.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\de_quy_fi_bo_na_cci\obj\Debug\net7.0\ref\de_quy_fi_bo_na_cci.dll
