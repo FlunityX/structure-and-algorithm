@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\bin\Debug\net7.0\tao_hinh_tam_giac_bang_dau_sao.exe
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\bin\Debug\net7.0\tao_hinh_tam_giac_bang_dau_sao.deps.json
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\bin\Debug\net7.0\tao_hinh_tam_giac_bang_dau_sao.runtimeconfig.json
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\bin\Debug\net7.0\tao_hinh_tam_giac_bang_dau_sao.dll
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\bin\Debug\net7.0\tao_hinh_tam_giac_bang_dau_sao.pdb
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\obj\Debug\net7.0\tao_hinh_tam_giac_bang_dau_sao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\obj\Debug\net7.0\tao_hinh_tam_giac_bang_dau_sao.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\obj\Debug\net7.0\tao_hinh_tam_giac_bang_dau_sao.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\obj\Debug\net7.0\tao_hinh_tam_giac_bang_dau_sao.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\obj\Debug\net7.0\tao_hinh_tam_giac_bang_dau_sao.dll
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\obj\Debug\net7.0\refint\tao_hinh_tam_giac_bang_dau_sao.dll
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\obj\Debug\net7.0\tao_hinh_tam_giac_bang_dau_sao.pdb
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\obj\Debug\net7.0\tao_hinh_tam_giac_bang_dau_sao.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\tao_hinh_tam_giac_bang_dau_sao\obj\Debug\net7.0\ref\tao_hinh_tam_giac_bang_dau_sao.dll
