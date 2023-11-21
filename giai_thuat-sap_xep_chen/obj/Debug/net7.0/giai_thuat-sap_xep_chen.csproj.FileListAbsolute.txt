@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\obj\Debug\net7.0\giai_thuat-sap_xep_chen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\obj\Debug\net7.0\giai_thuat-sap_xep_chen.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\obj\Debug\net7.0\giai_thuat-sap_xep_chen.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\obj\Debug\net7.0\giai_thuat-sap_xep_chen.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\bin\Debug\net7.0\giai_thuat-sap_xep_chen.exe
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\bin\Debug\net7.0\giai_thuat-sap_xep_chen.deps.json
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\bin\Debug\net7.0\giai_thuat-sap_xep_chen.runtimeconfig.json
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\bin\Debug\net7.0\giai_thuat-sap_xep_chen.dll
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\bin\Debug\net7.0\giai_thuat-sap_xep_chen.pdb
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\obj\Debug\net7.0\giai_thuat-sap_xep_chen.dll
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\obj\Debug\net7.0\refint\giai_thuat-sap_xep_chen.dll
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\obj\Debug\net7.0\giai_thuat-sap_xep_chen.pdb
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\obj\Debug\net7.0\giai_thuat-sap_xep_chen.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\giai_thuat-sap_xep_chen\obj\Debug\net7.0\ref\giai_thuat-sap_xep_chen.dll

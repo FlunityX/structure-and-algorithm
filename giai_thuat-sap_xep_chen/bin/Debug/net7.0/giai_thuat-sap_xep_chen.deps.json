@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "giai_thuat-sap_xep_chen/1.0.0": {
+        "runtime": {
+          "giai_thuat-sap_xep_chen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "giai_thuat-sap_xep_chen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
