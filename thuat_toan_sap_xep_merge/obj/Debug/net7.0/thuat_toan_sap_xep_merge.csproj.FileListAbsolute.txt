@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\bin\Debug\net7.0\thuat_toan_sap_xep_merge.exe
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\bin\Debug\net7.0\thuat_toan_sap_xep_merge.deps.json
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\bin\Debug\net7.0\thuat_toan_sap_xep_merge.runtimeconfig.json
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\bin\Debug\net7.0\thuat_toan_sap_xep_merge.dll
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\bin\Debug\net7.0\thuat_toan_sap_xep_merge.pdb
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\obj\Debug\net7.0\thuat_toan_sap_xep_merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\obj\Debug\net7.0\thuat_toan_sap_xep_merge.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\obj\Debug\net7.0\thuat_toan_sap_xep_merge.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\obj\Debug\net7.0\thuat_toan_sap_xep_merge.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\obj\Debug\net7.0\thuat_toan_sap_xep_merge.dll
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\obj\Debug\net7.0\refint\thuat_toan_sap_xep_merge.dll
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\obj\Debug\net7.0\thuat_toan_sap_xep_merge.pdb
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\obj\Debug\net7.0\thuat_toan_sap_xep_merge.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\thuat_toan_sap_xep_merge\obj\Debug\net7.0\ref\thuat_toan_sap_xep_merge.dll

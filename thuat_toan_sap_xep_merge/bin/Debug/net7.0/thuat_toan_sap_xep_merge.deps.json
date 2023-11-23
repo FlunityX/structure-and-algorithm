@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "thuat_toan_sap_xep_merge/1.0.0": {
+        "runtime": {
+          "thuat_toan_sap_xep_merge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "thuat_toan_sap_xep_merge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
