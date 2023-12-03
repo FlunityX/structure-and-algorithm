@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\bin\Debug\net7.0\tìm_kiếm_tuyến_tính_linear_search.exe
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\bin\Debug\net7.0\tìm_kiếm_tuyến_tính_linear_search.deps.json
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\bin\Debug\net7.0\tìm_kiếm_tuyến_tính_linear_search.runtimeconfig.json
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\bin\Debug\net7.0\tìm_kiếm_tuyến_tính_linear_search.dll
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\bin\Debug\net7.0\tìm_kiếm_tuyến_tính_linear_search.pdb
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\obj\Debug\net7.0\tìm_kiếm_tuyến_tính_linear_search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\obj\Debug\net7.0\tìm_kiếm_tuyến_tính_linear_search.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\obj\Debug\net7.0\tìm_kiếm_tuyến_tính_linear_search.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\obj\Debug\net7.0\tìm_kiếm_tuyến_tính_linear_search.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\obj\Debug\net7.0\tìm_kiếm_tuyến_tính_linear_search.dll
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\obj\Debug\net7.0\refint\tìm_kiếm_tuyến_tính_linear_search.dll
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\obj\Debug\net7.0\tìm_kiếm_tuyến_tính_linear_search.pdb
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\obj\Debug\net7.0\tìm_kiếm_tuyến_tính_linear_search.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\tìm_kiếm_tuyến_tính_linear_search\obj\Debug\net7.0\ref\tìm_kiếm_tuyến_tính_linear_search.dll

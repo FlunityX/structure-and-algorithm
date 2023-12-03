@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tìm_kiếm_tuyến_tính_linear_search", "tìm_kiếm_tuyến_tính_linear_search.csproj", "{19D56C6A-2CE8-40C9-9DDC-ADA8175F2078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D56C6A-2CE8-40C9-9DDC-ADA8175F2078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D56C6A-2CE8-40C9-9DDC-ADA8175F2078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D56C6A-2CE8-40C9-9DDC-ADA8175F2078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D56C6A-2CE8-40C9-9DDC-ADA8175F2078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9675E82D-CC7A-4BE8-A795-C1B34C6A50E0}
+	EndGlobalSection
+EndGlobal

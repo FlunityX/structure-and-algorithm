@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\bin\Debug\net7.0\tìm_kiếm_bước_nhảy.exe
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\bin\Debug\net7.0\tìm_kiếm_bước_nhảy.deps.json
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\bin\Debug\net7.0\tìm_kiếm_bước_nhảy.runtimeconfig.json
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\bin\Debug\net7.0\tìm_kiếm_bước_nhảy.dll
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\bin\Debug\net7.0\tìm_kiếm_bước_nhảy.pdb
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\obj\Debug\net7.0\tìm_kiếm_bước_nhảy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\obj\Debug\net7.0\tìm_kiếm_bước_nhảy.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\obj\Debug\net7.0\tìm_kiếm_bước_nhảy.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\obj\Debug\net7.0\tìm_kiếm_bước_nhảy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\obj\Debug\net7.0\tìm_kiếm_bước_nhảy.dll
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\obj\Debug\net7.0\refint\tìm_kiếm_bước_nhảy.dll
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\obj\Debug\net7.0\tìm_kiếm_bước_nhảy.pdb
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\obj\Debug\net7.0\tìm_kiếm_bước_nhảy.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\tìm_kiếm_bước_nhảy\obj\Debug\net7.0\ref\tìm_kiếm_bước_nhảy.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\bin\Debug\net7.0\tìm_kiếm_nhị_phân.exe
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\bin\Debug\net7.0\tìm_kiếm_nhị_phân.deps.json
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\bin\Debug\net7.0\tìm_kiếm_nhị_phân.runtimeconfig.json
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\bin\Debug\net7.0\tìm_kiếm_nhị_phân.dll
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\bin\Debug\net7.0\tìm_kiếm_nhị_phân.pdb
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\obj\Debug\net7.0\tìm_kiếm_nhị_phân.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\obj\Debug\net7.0\tìm_kiếm_nhị_phân.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\obj\Debug\net7.0\tìm_kiếm_nhị_phân.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\obj\Debug\net7.0\tìm_kiếm_nhị_phân.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\obj\Debug\net7.0\tìm_kiếm_nhị_phân.dll
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\obj\Debug\net7.0\refint\tìm_kiếm_nhị_phân.dll
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\obj\Debug\net7.0\tìm_kiếm_nhị_phân.pdb
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\obj\Debug\net7.0\tìm_kiếm_nhị_phân.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\tìm_kiếm_nhị_phân\obj\Debug\net7.0\ref\tìm_kiếm_nhị_phân.dll

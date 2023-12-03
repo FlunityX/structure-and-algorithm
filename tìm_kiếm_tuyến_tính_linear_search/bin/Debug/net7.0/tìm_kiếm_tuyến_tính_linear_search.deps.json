@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tìm_kiếm_tuyến_tính_linear_search/1.0.0": {
+        "runtime": {
+          "tìm_kiếm_tuyến_tính_linear_search.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tìm_kiếm_tuyến_tính_linear_search/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
