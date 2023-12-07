@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleApp18\bin\Debug\net7.0\ConsoleApp18.exe
+C:\Users\Administrator\source\repos\ConsoleApp18\bin\Debug\net7.0\ConsoleApp18.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp18\bin\Debug\net7.0\ConsoleApp18.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp18\bin\Debug\net7.0\ConsoleApp18.dll
+C:\Users\Administrator\source\repos\ConsoleApp18\bin\Debug\net7.0\ConsoleApp18.pdb
+C:\Users\Administrator\source\repos\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.dll
+C:\Users\Administrator\source\repos\ConsoleApp18\obj\Debug\net7.0\refint\ConsoleApp18.dll
+C:\Users\Administrator\source\repos\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.pdb
+C:\Users\Administrator\source\repos\ConsoleApp18\obj\Debug\net7.0\ConsoleApp18.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp18\obj\Debug\net7.0\ref\ConsoleApp18.dll
