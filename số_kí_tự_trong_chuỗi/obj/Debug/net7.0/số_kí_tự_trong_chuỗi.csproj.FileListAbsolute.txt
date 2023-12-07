@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\bin\Debug\net7.0\số_kí_tự_trong_chuỗi.exe
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\bin\Debug\net7.0\số_kí_tự_trong_chuỗi.deps.json
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\bin\Debug\net7.0\số_kí_tự_trong_chuỗi.runtimeconfig.json
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\bin\Debug\net7.0\số_kí_tự_trong_chuỗi.dll
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\bin\Debug\net7.0\số_kí_tự_trong_chuỗi.pdb
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\obj\Debug\net7.0\số_kí_tự_trong_chuỗi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\obj\Debug\net7.0\số_kí_tự_trong_chuỗi.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\obj\Debug\net7.0\số_kí_tự_trong_chuỗi.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\obj\Debug\net7.0\số_kí_tự_trong_chuỗi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\obj\Debug\net7.0\số_kí_tự_trong_chuỗi.dll
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\obj\Debug\net7.0\refint\số_kí_tự_trong_chuỗi.dll
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\obj\Debug\net7.0\số_kí_tự_trong_chuỗi.pdb
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\obj\Debug\net7.0\số_kí_tự_trong_chuỗi.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\số_kí_tự_trong_chuỗi\obj\Debug\net7.0\ref\số_kí_tự_trong_chuỗi.dll
