@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "đệ_quy_đuôi/1.0.0": {
+        "runtime": {
+          "đệ_quy_đuôi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "đệ_quy_đuôi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

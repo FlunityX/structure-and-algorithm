@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\UCLN_đệ quy đuôi\bin\Debug\UCLN_đệ quy đuôi.exe.config
+C:\Users\Administrator\source\repos\UCLN_đệ quy đuôi\bin\Debug\UCLN_đệ quy đuôi.exe
+C:\Users\Administrator\source\repos\UCLN_đệ quy đuôi\bin\Debug\UCLN_đệ quy đuôi.pdb
+C:\Users\Administrator\source\repos\UCLN_đệ quy đuôi\obj\Debug\UCLN_đệ quy đuôi.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\UCLN_đệ quy đuôi\obj\Debug\UCLN_đệ quy đuôi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\UCLN_đệ quy đuôi\obj\Debug\UCLN_đệ quy đuôi.exe
+C:\Users\Administrator\source\repos\UCLN_đệ quy đuôi\obj\Debug\UCLN_đệ quy đuôi.pdb

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\bin\Debug\net8.0\đệ_quy_đuôi.exe
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\bin\Debug\net8.0\đệ_quy_đuôi.deps.json
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\bin\Debug\net8.0\đệ_quy_đuôi.runtimeconfig.json
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\bin\Debug\net8.0\đệ_quy_đuôi.dll
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\bin\Debug\net8.0\đệ_quy_đuôi.pdb
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\obj\Debug\net8.0\đệ_quy_đuôi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\obj\Debug\net8.0\đệ_quy_đuôi.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\obj\Debug\net8.0\đệ_quy_đuôi.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\obj\Debug\net8.0\đệ_quy_đuôi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\obj\Debug\net8.0\đệ_quy_đuôi.dll
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\obj\Debug\net8.0\refint\đệ_quy_đuôi.dll
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\obj\Debug\net8.0\đệ_quy_đuôi.pdb
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\obj\Debug\net8.0\đệ_quy_đuôi.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\đệ_quy_đuôi\obj\Debug\net8.0\ref\đệ_quy_đuôi.dll
