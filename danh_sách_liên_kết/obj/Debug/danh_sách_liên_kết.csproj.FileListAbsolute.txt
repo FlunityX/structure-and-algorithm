@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\danh_sách_liên_kết\bin\Debug\danh_sách_liên_kết.exe.config
+C:\Users\Administrator\source\repos\danh_sách_liên_kết\bin\Debug\danh_sách_liên_kết.exe
+C:\Users\Administrator\source\repos\danh_sách_liên_kết\bin\Debug\danh_sách_liên_kết.pdb
+C:\Users\Administrator\source\repos\danh_sách_liên_kết\obj\Debug\danh_sách_liên_kết.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\danh_sách_liên_kết\obj\Debug\danh_sách_liên_kết.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\danh_sách_liên_kết\obj\Debug\danh_sách_liên_kết.exe
+C:\Users\Administrator\source\repos\danh_sách_liên_kết\obj\Debug\danh_sách_liên_kết.pdb
