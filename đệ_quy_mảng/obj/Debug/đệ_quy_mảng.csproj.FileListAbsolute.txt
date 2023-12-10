@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\đệ_quy_mảng\bin\Debug\đệ_quy_mảng.exe.config
+C:\Users\Administrator\source\repos\đệ_quy_mảng\bin\Debug\đệ_quy_mảng.exe
+C:\Users\Administrator\source\repos\đệ_quy_mảng\bin\Debug\đệ_quy_mảng.pdb
+C:\Users\Administrator\source\repos\đệ_quy_mảng\obj\Debug\đệ_quy_mảng.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\đệ_quy_mảng\obj\Debug\đệ_quy_mảng.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\đệ_quy_mảng\obj\Debug\đệ_quy_mảng.exe
+C:\Users\Administrator\source\repos\đệ_quy_mảng\obj\Debug\đệ_quy_mảng.pdb
