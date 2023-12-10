@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\biểu_diễn_đồ_thị bằng_ma_trận_kề\bin\Debug\biểu_diễn_đồ_thị bằng_ma_trận_kề.exe.config
+C:\Users\Administrator\source\repos\biểu_diễn_đồ_thị bằng_ma_trận_kề\bin\Debug\biểu_diễn_đồ_thị bằng_ma_trận_kề.exe
+C:\Users\Administrator\source\repos\biểu_diễn_đồ_thị bằng_ma_trận_kề\bin\Debug\biểu_diễn_đồ_thị bằng_ma_trận_kề.pdb
+C:\Users\Administrator\source\repos\biểu_diễn_đồ_thị bằng_ma_trận_kề\obj\Debug\biểu_diễn_đồ_thị bằng_ma_trận_kề.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\biểu_diễn_đồ_thị bằng_ma_trận_kề\obj\Debug\biểu_diễn_đồ_thị bằng_ma_trận_kề.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\biểu_diễn_đồ_thị bằng_ma_trận_kề\obj\Debug\biểu_diễn_đồ_thị bằng_ma_trận_kề.exe
+C:\Users\Administrator\source\repos\biểu_diễn_đồ_thị bằng_ma_trận_kề\obj\Debug\biểu_diễn_đồ_thị bằng_ma_trận_kề.pdb
