@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\tìm_số_lớn_nhất trong_mảng\bin\Debug\tìm_số_lớn_nhất trong_mảng.exe.config
+C:\Users\Administrator\source\repos\tìm_số_lớn_nhất trong_mảng\bin\Debug\tìm_số_lớn_nhất trong_mảng.exe
+C:\Users\Administrator\source\repos\tìm_số_lớn_nhất trong_mảng\bin\Debug\tìm_số_lớn_nhất trong_mảng.pdb
+C:\Users\Administrator\source\repos\tìm_số_lớn_nhất trong_mảng\obj\Debug\tìm_số_lớn_nhất trong_mảng.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\tìm_số_lớn_nhất trong_mảng\obj\Debug\tìm_số_lớn_nhất trong_mảng.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\tìm_số_lớn_nhất trong_mảng\obj\Debug\tìm_số_lớn_nhất trong_mảng.exe
+C:\Users\Administrator\source\repos\tìm_số_lớn_nhất trong_mảng\obj\Debug\tìm_số_lớn_nhất trong_mảng.pdb
