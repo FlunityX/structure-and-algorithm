@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\vẽ_hình_chữ_nhật_dấu_sao\bin\Debug\vẽ_hình_chữ_nhật_dấu_sao.exe.config
+C:\Users\Administrator\source\repos\vẽ_hình_chữ_nhật_dấu_sao\bin\Debug\vẽ_hình_chữ_nhật_dấu_sao.exe
+C:\Users\Administrator\source\repos\vẽ_hình_chữ_nhật_dấu_sao\bin\Debug\vẽ_hình_chữ_nhật_dấu_sao.pdb
+C:\Users\Administrator\source\repos\vẽ_hình_chữ_nhật_dấu_sao\obj\Debug\vẽ_hình_chữ_nhật_dấu_sao.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\vẽ_hình_chữ_nhật_dấu_sao\obj\Debug\vẽ_hình_chữ_nhật_dấu_sao.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\vẽ_hình_chữ_nhật_dấu_sao\obj\Debug\vẽ_hình_chữ_nhật_dấu_sao.exe
+C:\Users\Administrator\source\repos\vẽ_hình_chữ_nhật_dấu_sao\obj\Debug\vẽ_hình_chữ_nhật_dấu_sao.pdb
