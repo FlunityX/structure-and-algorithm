@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\tính_tổng_dãy_số\bin\Debug\tính_tổng_dãy_số.exe.config
+C:\Users\Administrator\source\repos\tính_tổng_dãy_số\bin\Debug\tính_tổng_dãy_số.exe
+C:\Users\Administrator\source\repos\tính_tổng_dãy_số\bin\Debug\tính_tổng_dãy_số.pdb
+C:\Users\Administrator\source\repos\tính_tổng_dãy_số\obj\Debug\tính_tổng_dãy_số.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\tính_tổng_dãy_số\obj\Debug\tính_tổng_dãy_số.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\tính_tổng_dãy_số\obj\Debug\tính_tổng_dãy_số.exe
+C:\Users\Administrator\source\repos\tính_tổng_dãy_số\obj\Debug\tính_tổng_dãy_số.pdb
