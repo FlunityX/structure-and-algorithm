@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\bảng_cửu_chương\bin\Debug\bảng_cửu_chương.exe.config
+C:\Users\Administrator\source\repos\bảng_cửu_chương\bin\Debug\bảng_cửu_chương.exe
+C:\Users\Administrator\source\repos\bảng_cửu_chương\bin\Debug\bảng_cửu_chương.pdb
+C:\Users\Administrator\source\repos\bảng_cửu_chương\obj\Debug\bảng_cửu_chương.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\bảng_cửu_chương\obj\Debug\bảng_cửu_chương.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\bảng_cửu_chương\obj\Debug\bảng_cửu_chương.exe
+C:\Users\Administrator\source\repos\bảng_cửu_chương\obj\Debug\bảng_cửu_chương.pdb
