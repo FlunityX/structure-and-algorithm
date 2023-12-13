@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\số_đặc_biệt\bin\Debug\số_đặc_biệt.exe.config
+C:\Users\Administrator\source\repos\số_đặc_biệt\bin\Debug\số_đặc_biệt.exe
+C:\Users\Administrator\source\repos\số_đặc_biệt\bin\Debug\số_đặc_biệt.pdb
+C:\Users\Administrator\source\repos\số_đặc_biệt\obj\Debug\số_đặc_biệt.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\số_đặc_biệt\obj\Debug\số_đặc_biệt.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\số_đặc_biệt\obj\Debug\số_đặc_biệt.exe
+C:\Users\Administrator\source\repos\số_đặc_biệt\obj\Debug\số_đặc_biệt.pdb
