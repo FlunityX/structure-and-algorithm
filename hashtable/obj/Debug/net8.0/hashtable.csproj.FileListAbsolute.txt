@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\hashtable\bin\Debug\net8.0\hashtable.exe
+C:\Users\Administrator\source\repos\hashtable\bin\Debug\net8.0\hashtable.deps.json
+C:\Users\Administrator\source\repos\hashtable\bin\Debug\net8.0\hashtable.runtimeconfig.json
+C:\Users\Administrator\source\repos\hashtable\bin\Debug\net8.0\hashtable.dll
+C:\Users\Administrator\source\repos\hashtable\bin\Debug\net8.0\hashtable.pdb
+C:\Users\Administrator\source\repos\hashtable\obj\Debug\net8.0\hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\hashtable\obj\Debug\net8.0\hashtable.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\hashtable\obj\Debug\net8.0\hashtable.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\hashtable\obj\Debug\net8.0\hashtable.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\hashtable\obj\Debug\net8.0\hashtable.dll
+C:\Users\Administrator\source\repos\hashtable\obj\Debug\net8.0\refint\hashtable.dll
+C:\Users\Administrator\source\repos\hashtable\obj\Debug\net8.0\hashtable.pdb
+C:\Users\Administrator\source\repos\hashtable\obj\Debug\net8.0\hashtable.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\hashtable\obj\Debug\net8.0\ref\hashtable.dll
