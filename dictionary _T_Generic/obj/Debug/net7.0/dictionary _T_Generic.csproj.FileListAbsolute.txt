@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\dictionary _T_Generic\bin\Debug\net7.0\dictionary _T_Generic.exe
+C:\Users\Administrator\source\repos\dictionary _T_Generic\bin\Debug\net7.0\dictionary _T_Generic.deps.json
+C:\Users\Administrator\source\repos\dictionary _T_Generic\bin\Debug\net7.0\dictionary _T_Generic.runtimeconfig.json
+C:\Users\Administrator\source\repos\dictionary _T_Generic\bin\Debug\net7.0\dictionary _T_Generic.dll
+C:\Users\Administrator\source\repos\dictionary _T_Generic\bin\Debug\net7.0\dictionary _T_Generic.pdb
+C:\Users\Administrator\source\repos\dictionary _T_Generic\obj\Debug\net7.0\dictionary _T_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\dictionary _T_Generic\obj\Debug\net7.0\dictionary _T_Generic.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\dictionary _T_Generic\obj\Debug\net7.0\dictionary _T_Generic.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\dictionary _T_Generic\obj\Debug\net7.0\dictionary _T_Generic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\dictionary _T_Generic\obj\Debug\net7.0\dictionary _T_Generic.dll
+C:\Users\Administrator\source\repos\dictionary _T_Generic\obj\Debug\net7.0\refint\dictionary _T_Generic.dll
+C:\Users\Administrator\source\repos\dictionary _T_Generic\obj\Debug\net7.0\dictionary _T_Generic.pdb
+C:\Users\Administrator\source\repos\dictionary _T_Generic\obj\Debug\net7.0\dictionary _T_Generic.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\dictionary _T_Generic\obj\Debug\net7.0\ref\dictionary _T_Generic.dll
