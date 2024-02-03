@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ứng dụng file stream\bin\Debug\net8.0\ứng dụng file stream.exe
+C:\Users\Administrator\source\repos\ứng dụng file stream\bin\Debug\net8.0\ứng dụng file stream.deps.json
+C:\Users\Administrator\source\repos\ứng dụng file stream\bin\Debug\net8.0\ứng dụng file stream.runtimeconfig.json
+C:\Users\Administrator\source\repos\ứng dụng file stream\bin\Debug\net8.0\ứng dụng file stream.dll
+C:\Users\Administrator\source\repos\ứng dụng file stream\bin\Debug\net8.0\ứng dụng file stream.pdb
+C:\Users\Administrator\source\repos\ứng dụng file stream\obj\Debug\net8.0\ứng dụng file stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ứng dụng file stream\obj\Debug\net8.0\ứng dụng file stream.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ứng dụng file stream\obj\Debug\net8.0\ứng dụng file stream.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ứng dụng file stream\obj\Debug\net8.0\ứng dụng file stream.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ứng dụng file stream\obj\Debug\net8.0\ứng dụng file stream.dll
+C:\Users\Administrator\source\repos\ứng dụng file stream\obj\Debug\net8.0\refint\ứng dụng file stream.dll
+C:\Users\Administrator\source\repos\ứng dụng file stream\obj\Debug\net8.0\ứng dụng file stream.pdb
+C:\Users\Administrator\source\repos\ứng dụng file stream\obj\Debug\net8.0\ứng dụng file stream.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ứng dụng file stream\obj\Debug\net8.0\ref\ứng dụng file stream.dll
