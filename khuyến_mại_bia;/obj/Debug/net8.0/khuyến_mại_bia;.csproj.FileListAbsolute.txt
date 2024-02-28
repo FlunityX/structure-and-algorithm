@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\bin\Debug\net8.0\khuyến_mại_bia;.exe
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\bin\Debug\net8.0\khuyến_mại_bia;.deps.json
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\bin\Debug\net8.0\khuyến_mại_bia;.runtimeconfig.json
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\bin\Debug\net8.0\khuyến_mại_bia;.dll
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\bin\Debug\net8.0\khuyến_mại_bia;.pdb
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\obj\Debug\net8.0\khuyến_mại_bia;.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\obj\Debug\net8.0\khuyến_mại_bia;.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\obj\Debug\net8.0\khuyến_mại_bia;.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\obj\Debug\net8.0\khuyến_mại_bia;.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\obj\Debug\net8.0\khuyến_mại_bia;.dll
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\obj\Debug\net8.0\refint\khuyến_mại_bia;.dll
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\obj\Debug\net8.0\khuyến_mại_bia;.pdb
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\obj\Debug\net8.0\khuyến_mại_bia;.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\khuyến_mại_bia;\obj\Debug\net8.0\ref\khuyến_mại_bia;.dll
